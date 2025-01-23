@@ -4,4 +4,4 @@ Aquesta connexió s'ha establert gràcies al mòdul psycopg2, que és una biblio
 
 Finalment, es mostra la connexió cridant la funció connection_db() i imprimint l'objecte de connexió. El que veiem a la sortida és la representació d'aquesta connexió, que inclou els detalls que hem menciona
 
-![Connexio base dades](../SGE_BLOC2/Imagenes/Conectantbasedades.PNG)
+![Connexio base dades](Imagenes/Conectantbasedades.PNG)
