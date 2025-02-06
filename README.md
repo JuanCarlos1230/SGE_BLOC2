@@ -49,3 +49,9 @@ Mostrem el client 5 i no el 4 perquè comencem per 0.
 **Aleshores tots els results amb un numero per exemple aixi: results[14] mostren tota la informació del registre de la fila del numero del client menys 1 peruqe comencem per 0 i els results como ara results[14] [1] mostran la fila 14 en aquest cas i el camp 1 pero no oblidem que comencem per 0 aixi que és la fila 15 i el camp 2.**  
 
 ![Resgistres_de_informació](/Imagenes/Registres_informacio.png)
+
+**Això mostra tots els registres en ordre de manera imprimeix cada camp del registre i el seu valor**  
+**en una sola linia és a dir sí el registre te 5 camps imprimeix 5 línies una per cada camp amb**  
+**el seu valor corresponent.** 
+
+![recuadre_text](/Imagenes/recuadre_text.png)
