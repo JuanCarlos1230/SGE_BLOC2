@@ -24,7 +24,7 @@ Així pots consultar les taules i veure les dades dins de pgAdmin 4.
 
 ![Ultim registre](/Imagenes/Ultimregistre.png)
 
-**Mostra tots els registres** de forma horitzontal a una sola línea.
+**Mostra tots els registres** de forma horitzontal en una sola línea.
 
 ![results_totals](/Imagenes/results_totals.png)
 
