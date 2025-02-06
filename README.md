@@ -28,3 +28,8 @@ Així pots consultar les taules i veure les dades dins de pgAdmin 4.
 
 ![results_totals](/Imagenes/results_totals.png)
 
+**A més de mostrar tots els registres dels clients, mostrem també només el registre del client número 5.**  
+**És a dir, la informació de l'Alba.**  
+**Mostrem el client 5 i no el 4 perquè comencem per 0.**
+
+![Registre4=Client5](/Imagenes/Resgistre4.png)
