@@ -50,3 +50,9 @@ Mostrem el client 5 i no el 4 perquè comencem per 0.
 
 ![Resgistres_de_informació](/Imagenes/Registres_informacio.png)
 
+**Això mostra tots els registres en ordre de manera imprimeix cada camp del registre i el seu valor**  
+**en una sola linia és a dir sí el registre te 5 camps imprimeix 5 línies una per cada camp amb**  
+**el seu valor corresponent.**
+**Ja que li hem dit que el (nom es el primer camp [0] i el neixament és el cinque[4]) i els imprimeix en ordre**
+
+![recuadre_text](/Imagenes/recuadre_text.png)
