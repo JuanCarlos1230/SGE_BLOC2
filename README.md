@@ -56,3 +56,24 @@ Mostrem el client 5 i no el 4 perquè comencem per 0.
 **Ja que li hem dit que el (nom es el primer camp [0] i el neixament és el cinque[4]) i els imprimeix en ordre**
 
 ![recuadre_text](/Imagenes/recuadre_text.png)
+
+**En update_registre podem modificar dades dels clients on Update selecciones la taula que vols modifiar**  
+**i en la línia "SET" de més abaix estableixes la dada que modificaras el seu valor actual pel que vols actualitzar**  
+**i el "Where" indica a on atribut del cliente es = a una dada que sabem i que en aquest moment no canvia.**
+**Això modificara les dades del registre es a dir en teléfono cliente podem posar el número y en "where" id_cliente**  
+**o cualsevol altre camp del registre que podem fe servir per fer referencia aquest client peruqe sapiga a quien modificar**  
+**el teléfon** 
+
+![actualiza_dades](/Imagenes/actualitza_dades.png)
+
+![actualiza_dades](/Imagenes/actualitzant_dades.png)
+
+**Amb Delete From Clientes li este dient que de la taula clientes elimini on "Where" nombre cliente i el que es vol esborrar**
+**Això s'aconsegueix amb la funció delete_reg i després en el main crida la funcio y retorna el cliente esborrats.**
+**Això esborra a l'Aleix de la base de dades**
+
+![eliminant](/Imagenes/elimina_gran.png)
+
+**En aquesta taula de la base de dades de client no hi son ni l'"Aleix" ni l'"Alba" ni la "Mireia" ni en "Juan Manuel".**
+
+![clients4menys](/Imagenes/base_dades4_menys.png)
